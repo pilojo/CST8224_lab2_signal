@@ -4,4 +4,4 @@ The program meets all requirements of the lab specification, behaves as expected
 ## Known Issues
 N/A
 ## Expected Grade
-8/10
+3/5
